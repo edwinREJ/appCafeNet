@@ -1,0 +1,6 @@
+@appCaféNet_HostAddress = http://localhost:5161
+
+GET {{appCaféNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
