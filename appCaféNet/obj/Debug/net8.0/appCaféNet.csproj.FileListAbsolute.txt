@@ -109,3 +109,4 @@ C:\Users\Edwin\Desktop\caféNet\appcaféNet\obj\Debug\net8.0\refint\appCaféNet.
 C:\Users\Edwin\Desktop\caféNet\appcaféNet\obj\Debug\net8.0\appCaféNet.pdb
 C:\Users\Edwin\Desktop\caféNet\appcaféNet\obj\Debug\net8.0\appCaféNet.genruntimeconfig.cache
 C:\Users\Edwin\Desktop\caféNet\appcaféNet\obj\Debug\net8.0\ref\appCaféNet.dll
+C:\Users\Edwin\Desktop\caféNet\appcaféNet\obj\Debug\net8.0\appCaféNet.sourcelink.json
